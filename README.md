@@ -1,2 +1,5 @@
-# javhd
-javhdxxx成人番号库
+# JavHD
+
+[javhd.com](https://javhd.men) official app
+
+## Downloads
