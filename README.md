@@ -1,5 +1,5 @@
 # JavHD
 
-[javhd.com](https://javhd.men) official app
+[javhd](https://javhd.men) official app
 
 ## Downloads
